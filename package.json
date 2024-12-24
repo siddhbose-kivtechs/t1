@@ -1,0 +1,19 @@
+{
+  "name": "Kivtechs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+      "start": "vercel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+  "cookie-parser": "^1.4.7",
+    "express": "^4.21.2"
+  }
+}
